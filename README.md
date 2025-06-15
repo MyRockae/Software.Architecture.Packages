@@ -92,3 +92,11 @@ This project is licensed under the terms specified in the MIT LICENSE file.
 ## Support
 
 For support and questions, please open an issue in the repository.
+
+## Recent Improvements
+
+- Added enhanced search functionality for AI packages
+- Implemented a new search algorithm for improved relevance.
+
+- Updated package compatibility documentation
+- Updated dependencies to the latest stable versions.
